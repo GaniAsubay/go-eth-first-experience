@@ -15,9 +15,6 @@ var Addresses map[string]string
 
 func init() {
 	Addresses = make(map[string]string)
-	Addresses["0x327b69f7086aa9eb478d5a871cf84aa3491f3a50"] = "0x327b69f7086aa9eb478d5a871cf84aa3491f3a50"
-	Addresses["0x85f4c35de107ba8fb7a67f4348ed028d52c19254"] = "0x85f4c35de107ba8fb7a67f4348ed028d52c19254"
-	Addresses["0x4bcb303609f19e71ab82a3a3393c46bfea1e44fc"] = "0x4bcb303609f19e71ab82a3a3393c46bfea1e44fc"
 }
 
 // AddAccountHandler is ...
